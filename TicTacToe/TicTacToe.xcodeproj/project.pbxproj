@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C10211002113778F00136BCF /* Board.swift in Sources */ = {isa = PBXBuildFile; fileRef = C10210FF2113778F00136BCF /* Board.swift */; };
 		C13153C7211270E5003EA7E2 /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = C13153C6211270E5003EA7E2 /* Game.swift */; };
 		C19E42A5210B9CDE008E98DD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C19E42A4210B9CDE008E98DD /* AppDelegate.swift */; };
 		C19E42A7210B9CDE008E98DD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C19E42A6210B9CDE008E98DD /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C10210FF2113778F00136BCF /* Board.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Board.swift; sourceTree = "<group>"; };
 		C13153C6211270E5003EA7E2 /* Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game.swift; sourceTree = "<group>"; };
 		C13153C8211272A9003EA7E2 /* auxPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = auxPlayground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		C19E42A1210B9CDE008E98DD /* TicTacToe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TicTacToe.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -67,6 +69,7 @@
 				C19E42B3210B9CDF008E98DD /* Info.plist */,
 				C19E42AB210B9CDE008E98DD /* TicTacToe.xcdatamodeld */,
 				C13153C6211270E5003EA7E2 /* Game.swift */,
+				C10210FF2113778F00136BCF /* Board.swift */,
 				C13153C8211272A9003EA7E2 /* auxPlayground.playground */,
 			);
 			path = TicTacToe;
@@ -145,6 +148,7 @@
 			files = (
 				C19E42AD210B9CDE008E98DD /* TicTacToe.xcdatamodeld in Sources */,
 				C19E42A7210B9CDE008E98DD /* ViewController.swift in Sources */,
+				C10211002113778F00136BCF /* Board.swift in Sources */,
 				C19E42A5210B9CDE008E98DD /* AppDelegate.swift in Sources */,
 				C13153C7211270E5003EA7E2 /* Game.swift in Sources */,
 			);
